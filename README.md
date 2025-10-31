@@ -1,2 +1,2 @@
 # ChatBots
-github.com/dommerts35/ChatBots/main/img.png
+<img src="img.png" alt="Imágen de Chatbots" width="400"/>
