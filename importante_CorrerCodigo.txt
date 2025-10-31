@@ -1,0 +1,4 @@
+Para correr 'chatbot_local.py', primero se debe descargar e instalar Ollama y sus modelos en la nube: "deepseek-v3.1:671b-cloud, qwen3-coder:480b-cloud, glm-4.6:cloud, gpt-oss:20b-cloud".
+Ollama debe de estar abierto en todo momento, y haber abierto al menos una vez todos esos modelos.
+
+El comando para correr 'chatbot_local.py' es: streamlit run chatbot_local.py .
